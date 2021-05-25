@@ -80,3 +80,5 @@ Nest is [MIT licensed](LICENSE).
 ```npm run start:dev```
 
 ```nest g module <module-name>```
+
+```nest g controller <controller-name>```
